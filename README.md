@@ -31,6 +31,6 @@ This project is licensed under the MIT license.
 https://opensource.org/licenses/MIT
 
 ## Questions
-If you have any questions, please contact me at flagg217@gmail.com. You can also find more of my work at [Flagg217]()
+If you have any questions, please contact me at flagg217@gmail.com. You can also find more of my work at [Flagg217](https://github.com/Flagg217)
 
 
